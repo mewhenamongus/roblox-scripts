@@ -1,5 +1,4 @@
---made by Nightmare
---https://www.roblox.com/games/5041144419/bebra
+--https://www.roblox.com/games/5041144419/
 
 repeat
     wait()
