@@ -1,4 +1,4 @@
---made by Nightmare
+--made by Nightmare (mewhenamongus)
 --https://www.roblox.com/games/5041144419/bebra
 
 repeat
